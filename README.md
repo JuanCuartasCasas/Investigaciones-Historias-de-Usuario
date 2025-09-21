@@ -11,3 +11,4 @@ Se investigan las ultimas 5 historias de usuario:
  *16	El administrador puede eliminar archivos no coherentes al objetivo de la pagina
  --
  *17	El estudiante puede ver la estructura de la pagina web para interactuar con las opciones
+--
