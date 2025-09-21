@@ -1,5 +1,6 @@
 # Investigaciones-Historias-de-Usuario
 Se investigan las ultimas 5 historias de usuario:
+ --
  *12	El estudiante puede estar de acuerdo o no acerca de las recomendaciones para mantener un debate abierto 
  --
  *13	El estudiante debe justificar su puntuación para dar recomendaciones objetivas
